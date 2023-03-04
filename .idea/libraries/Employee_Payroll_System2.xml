@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Employee Payroll System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/itextpdf-5.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdatepicker-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlitejdbc-v056.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
